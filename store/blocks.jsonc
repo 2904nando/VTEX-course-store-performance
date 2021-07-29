@@ -42,6 +42,12 @@
     ]
   },
 
+  "product-summary-image": {
+    "props": {
+      "width": 281
+    }
+  },
+
   "stack-layout#prodsum": {
     "children": [
       "product-summary-image",
